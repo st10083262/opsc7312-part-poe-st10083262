@@ -93,6 +93,7 @@
         <!-- Notification Strings -->
         <string name="new_note_notification_title">Inothi Elisha Lengeziwe</string>
         <string name="new_note_notification_body">Inothi elisha selidaliwe ngempumelelo.</string>
+      <string name="notification_channel_name">i-Notemaster</string>
 
         <!-- Notification Channel Strings -->
 
