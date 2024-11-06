@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General Labels -->
+    <string name="app_name">Notemaster</string>
+    <string name="default_web_client_id">922316862518-3krvqr3ehakmq0ljcv3953r05ots04n1.apps.googleusercontent.com</string>
+    <string name="navigation_drawer_open">Vula indawo yokuhambisa</string>
+    <string name="navigation_drawer_close">Vala indawo yokuhambisa</string>
+    <string name="unsplash_access_key">7YrjtfW8O2mmeyM2pt37ZQOcUNxJGk2NlyZIkbYTzJw</string>
+
+    <!-- General Labels -->
+    <string name="note_title">Isihloko senqaku</string>
+    <string name="note_content">Umxholo wenqaku</string>
+    <string name="save_note">Gcina inqaku</string>
+    <string name="title">Isihloko</string>
+    <string name="content">Umxholo</string>
+    <string name="save">Gcina</string>
+    <string name="app_logo_description">Ilungelo lokuhambisa</string>
+
+    <!-- Image Search -->
+    <string name="search_hint">Khangela kwi-Unsplash...</string>
+    <string name="search">Khangela</string>
+
+    <!-- Login -->
+    <string name="login">Ngena</string>
+    <string name="login_with_google">Ngena nge-Google</string>
+    <string name="dont_have_account">Akunayo iakhawunti? Bhalisa</string>
+    <string name="email">Imeyili</string>
+    <string name="password">Iphasiwedi</string>
+
+    <!-- Registration -->
+    <string name="register">Bhalisa</string>
+    <string name="sign_up_with_google">Bhalisa nge-Google</string>
+    <string name="already_have_account">Usenayo iakhawunti? Ngena</string>
+    <string name="create_account">Yenza iakhawunti</string>
+    <string name="full_name">Igama elipheleleyo</string>
+    <string name="confirm_password">Qinisekisa iphasiwedi</string>
+
+    <!-- App Sections -->
+    <string name="home">Ikhaya</string>
+    <string name="settings">Useto</string>
+    <string name="image_search">Khangela Imifanekiso</string>
+    <string name="logout">Phuma</string>
+
+    <!-- Drawer and Header -->
+    <string name="preferences">Izinto ozikhethayo</string>
+    <string name="user_name">Igama lomsebenzisi</string>
+    <string name="user_email">umsebenzisi@umzekelo.com</string>
+    <string name="change_photo">Tshintsha Ifoto</string>
+
+    <!-- Settings Options -->
+    <string name="enable_biometric">Vumela ukungena ngesiginitsha yeminwe okanye yobuso</string>
+
+    <!-- Others -->
+    <string name="personal">Zabucala</string>
+    <string name="new_note">Inqaku Elitsha</string>
+    <string name="motivational_quotes">Iingcaphuno Ezikhuthazayo</string>
+    <string name="note_title_hint">Isihloko senqaku</string>
+    <string name="note_content_hint">Umxholo wenqaku</string>
+
+    <!-- General Strings -->
+    <string name="no_name">Akukho Gama</string>
+    <string name="no_email">Akukho Imeyili</string>
+    <string name="select_picture">Khetha Ifoto</string>
+    <string name="profile_image_uploaded">Ifoto yeprofayile ilayishiwe</string>
+    <string name="failed_to_upload_image">Ayiphumelelanga ukulayisha ifoto</string>
+    <string name="failed_to_load_profile_image">Ayiphumelelanga ukulayisha ifoto yeprofayile</string>
+    <string name="failed_to_load_user_data">Ayiphumelelanga ukulayisha idatha yomsebenzisi</string>
+
+    <!-- Dark Mode Strings -->
+    <string name="dark_mode_enabled">Imowudi emnyama ivuliwe</string>
+    <string name="dark_mode_disabled">Imowudi emnyama ivaliwe</string>
+
+    <!-- Biometric Authentication Strings -->
+    <string name="biometric_login_enabled">Ukungena ngesiginitsha yeminwe kuvuliwe</string>
+    <string name="authentication_failed">Ukuqinisekisa akuphumelelanga</string>
+    <string name="authentication_error">Imposiso yokuqinisekisa: %1$s</string>
+    <string name="biometric_authentication">Ukungena Ngesiginitsha Yeminwe</string>
+    <string name="enable_biometric_login">Vumela ukungena ngesiginitsha yeminwe</string>
+    <string name="cancel">Rhoxisa</string>
+    <string name="biometric_not_supported">Ukungena ngesiginitsha yeminwe akuxhaswanga kwisixhobo</string>
+
+    <!-- Language Selection Strings -->
+    <string name="select_language">Khetha Ulwimi</string>
+    <string name="language_english">IsiNgesi</string>
+    <string name="language_zulu">IsiZulu</string>
+    <string name="language_xhosa">IsiXhosa</string>
+
+    <!-- Preferences Section -->
+    <string name="dark_mode">Imowudi Emnyama</string>
+    <string name="toggle_dark_theme">Shintsha umxholo omnyama</string>
+    <string name="biometric_login">Ukungena Ngesiginitsha Yeminwe</string>
+    <string name="enable_fingerprint_or_face">Vumela ukungena ngesiginitsha yeminwe okanye yobuso</string>
+        <!-- Notification Strings -->
+        <string name="new_note_notification_title">Inothi Elisha Lengeziwe</string>
+        <string name="new_note_notification_body">Inothi elisha selidaliwe ngempumelelo.</string>
+
+        <!-- Notification Channel Strings -->
+
+</resources>

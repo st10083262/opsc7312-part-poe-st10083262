@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/nav_settings"
+        android:title="@string/settings"/>
+    <item
+        android:id="@+id/nav_image_search"
+        android:title="@string/image_search"/>
+    <item
+        android:id="@+id/nav_motivation"
+        android:title="@string/motivational_quotes"/>
+    <item
+        android:id="@+id/nav_logout"
+        android:title="@string/logout"/>
+</menu>

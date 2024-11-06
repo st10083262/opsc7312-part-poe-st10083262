@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922316862518",
+    "project_id": "notemaster-97e12",
+    "storage_bucket": "notemaster-97e12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922316862518:android:062f3c5648bae9d9d0d497",
+        "android_client_info": {
+          "package_name": "com.notemaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsGSp-T0SaPmuJpXIe4hVRycpeRXiDY7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

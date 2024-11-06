@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Notemaster</string>
+    <string name="default_web_client_id">922316862518-3krvqr3ehakmq0ljcv3953r05ots04n1.apps.googleusercontent.com</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="unsplash_access_key">7YrjtfW8O2mmeyM2pt37ZQOcUNxJGk2NlyZIkbYTzJw</string>
+
+        <!-- General Labels -->
+        <string name="note_title">Note Title</string>
+        <string name="note_content">Note Content</string>
+        <string name="save_note">Save Note</string>
+        <string name="title">Title</string>
+        <string name="content">Content</string>
+        <string name="save">Save</string>
+    <string name="app_logo_description">App Logo</string>
+        <!-- Image Search -->
+        <string name="search_hint">Search Unsplash...</string>
+        <string name="search">Search</string>
+
+        <!-- Login -->
+        <string name="login">Login</string>
+        <string name="login_with_google">Login with Google</string>
+        <string name="dont_have_account">Don\'t have an account? Sign up</string>
+        <string name="email">Email</string>
+        <string name="password">Password</string>
+
+        <!-- Registration -->
+        <string name="register">Register</string>
+        <string name="sign_up_with_google">Sign up with Google</string>
+        <string name="already_have_account">Already have an account? Login</string>
+        <string name="create_account">Create Account</string>
+        <string name="full_name">Full Name</string>
+        <string name="confirm_password">Confirm Password</string>
+
+        <!-- App Sections -->
+        <string name="home">Home</string>
+        <string name="settings">Settings</string>
+        <string name="image_search">Image Search</string>
+        <string name="logout">Logout</string>
+
+        <!-- Drawer and Header -->
+        <string name="preferences">Preferences</string>
+        <string name="user_name">User Name</string>
+        <string name="user_email">user@example.com</string>
+        <string name="change_photo">Change Photo</string>
+
+        <!-- Settings Options -->
+
+        <string name="enable_biometric">Enable fingerprint or face login</string>
+
+        <!-- Others -->
+        <string name="personal">Personal</string>
+        <string name="new_note">New Note</string>
+    <string name="motivational_quotes">Motivational Quotes</string>
+    <string name="note_title_hint">Note Title</string>
+    <string name="note_content_hint">Note Content</string>
+
+        <!-- General Strings -->
+        <string name="no_name">No Name</string>
+        <string name="no_email">No Email</string>
+        <string name="select_picture">Select Picture</string>
+        <string name="profile_image_uploaded">Profile image uploaded</string>
+        <string name="failed_to_upload_image">Failed to upload image</string>
+        <string name="failed_to_load_profile_image">Failed to load profile image</string>
+        <string name="failed_to_load_user_data">Failed to load user data</string>
+
+        <!-- Dark Mode Strings -->
+        <string name="dark_mode_enabled">Dark mode enabled</string>
+        <string name="dark_mode_disabled">Dark mode disabled</string>
+
+        <!-- Biometric Authentication Strings -->
+        <string name="biometric_login_enabled">Biometric login enabled</string>
+        <string name="authentication_failed">Authentication failed</string>
+        <string name="authentication_error">Authentication error: %1$s</string>
+        <string name="biometric_authentication">Biometric Authentication</string>
+        <string name="enable_biometric_login">Enable biometric login</string>
+        <string name="cancel">Cancel</string>
+        <string name="biometric_not_supported">Biometric authentication not supported on this device</string>
+
+        <!-- Language Selection Strings -->
+        <string name="select_language">Select Language</string>
+        <string name="language_english">English</string>
+        <string name="language_zulu">Zulu</string>
+        <string name="language_xhosa">Xhosa</string>
+
+        <!-- Preferences Section -->
+        <string name="dark_mode">Dark Mode</string>
+        <string name="toggle_dark_theme">Toggle dark theme</string>
+        <string name="biometric_login">Biometric Login</string>
+        <string name="enable_fingerprint_or_face">Enable fingerprint or face login</string>
+    <string name="new_note_notification_title" translatable="false">New Note Added</string>
+    <string name="new_note_notification_body" translatable="false">You have successfully created a new note.</string>
+    <string name="notification_channel_name">Notemaster</string>
+    <string name="notification_channel_description">New note added</string>
+
+</resources>
